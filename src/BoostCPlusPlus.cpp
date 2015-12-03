@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : Boost_Test.cpp
-// Author      : 
+// Author      :
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Experiment with the C++ Boost Library
 //============================================================================
 
 #include <iostream>
